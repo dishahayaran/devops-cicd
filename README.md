@@ -1,6 +1,6 @@
 **About this project**
 
-This project is about connecting GitHub, where we keep our code, with Jenkins, a tool that helps automate the process of testing and deploying our software. By linking these two, we can make it easier for our team to work together and ensure that changes to our code are tested and deployed quickly and reliably.
+This project aims to integrate GitHub repositories with Jenkins Continuous Integration and Continuous Deployment (CI/CD) pipelines. By leveraging Jenkins, a widely-used automation server, and GitHub, a leading platform for version control and collaboration, this integration will streamline the development process, enabling automated build, test, and deployment workflows. The integration will facilitate developers in triggering CI/CD pipelines upon code changes, ensuring rapid feedback loops, efficient collaboration, and reliable delivery of software products.
 
 ![image](https://github.com/dishahayaran/devops-cicd/assets/71218276/bed28ec0-d4da-46ce-b0ed-50582eb46d60)
 
